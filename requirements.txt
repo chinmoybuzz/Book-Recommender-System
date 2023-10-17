@@ -1,6 +1,6 @@
-### dependency
-streamlit
+flask
 numpy
-
-### local packages -
--e . 
+pandas
+seaborn
+matplotlib
+gunicorn==20.0.4
