@@ -26,5 +26,5 @@ Now run,
 Python app.py
 ```
 ## Demo
-<img src="demo_pic/2.jpg" alt="workflow" width="70%">
-<img src="demo_pic/3s.jpg" alt="workflow" width="70%">
+<img src="demo_pic/2.png" alt="workflow" width="70%">
+<img src="demo_pic/3s.png" alt="workflow" width="70%">
