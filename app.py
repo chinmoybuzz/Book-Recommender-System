@@ -133,7 +133,7 @@ def home():
     return render_template('index.html', book_list=book_list)
 
 
-# Recommendation page route
+# Recommendation page routes
 @app.route('/recommend', methods=['POST'])
 def recommend():
     book_title = request.form['selected_book']
