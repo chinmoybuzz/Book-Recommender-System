@@ -13,7 +13,7 @@ Welcome to our Book Recommender System! Powered by Collaborative Filtering, this
 Clone the repository
 
 ```bash
-https://github.com/shivam1423/Book-Recommender-System-deploy
+https://github.com/chinmoybuzz/product-recommendation.git
 ```
 
 ### STEP 01- install the requirements
